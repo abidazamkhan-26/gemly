@@ -8,3 +8,7 @@ A modern and elegant HTML5 template for luxury jewelry businesses.
 - Fully Responsive
 - Optimized SEO
 - Luxury Aesthetics
+
+
+## Installation
+Just open index-jewelry.html in your browser.
